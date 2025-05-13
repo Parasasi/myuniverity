@@ -1,4 +1,4 @@
 # myuniverity
 THIS IS MY FIRST GIT REPOSITORY
 <br>
-Author - Leslie
+Author - Leslie thinkcloudly
